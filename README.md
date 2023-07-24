@@ -10,7 +10,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 * [2. Demo](https://github.com/sagsag8/clon-de-google#2-demo)
 * [3. ¿Qué construirás?](https://github.com/sagsag8/clon-de-google#3-qu%C3%A9-construir%C3%A1s)
 * [4. Objetivos de aprendizaje](https://github.com/sagsag8/clon-de-google#4-objetivos-de-aprendizaje)
-* [5. General](https://github.com/malibb/clon-de-google/tree/main#5-requisitos)
+* [5. Requisitos](https://github.com/malibb/clon-de-google/tree/main#5-requisitos)
 
 ****
 
@@ -25,7 +25,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![preview](https://github.com/sagsag8/clon-de-google/blob/main/Im%C3%A1genes/preview.png)
+![cpatura](https://github.com/sagsag8/clon-de-google/blob/main/Im%C3%A1genes/preview.png)
 
 
 ## 3. ¿Qué construirás?
@@ -52,13 +52,13 @@ Aplicarás:
 - Estilos con CSS
 
 
-## 5. General
+## 5. Requisitos
 
 Usa esta lista para saber los requisitos mínimos del proyecto:
 
 ### GENERAL
 
-Realizarse de manera individual
+Al terminar esta actividad pude comprender de mejor manera el uso de herramientotas como el padding y margins, además de que me formó un interés aún mayor en la programación. A pesar de ser un ejercicio sencillo, considero que es bastante útil para empezar a poner a prueba nuestros conocimientos sobre html y css.
 
 ### UI
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
