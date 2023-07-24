@@ -25,7 +25,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![preview]("https://github.com/sagsag8/clon-de-google/blob/main/Im%C3%A1genes/preview.png")
+![preview](https://github.com/sagsag8/clon-de-google/blob/main/Im%C3%A1genes/preview.png)
 
 
 ## 3. ¿Qué construirás?
