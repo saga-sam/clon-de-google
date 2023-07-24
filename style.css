@@ -1,0 +1,188 @@
+* { 
+   margin: 0px;
+   padding: 0px;
+   font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 5vh;
+    align-items:center;
+}
+
+main {
+    display: flex;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 235px;
+}
+
+#footer-listas{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+#footer-listas ul li{
+    padding: 15px;
+    padding-top: px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+header nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+li {
+    padding: 8px 20px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+#nav-right-section{
+    padding: 0px 10px 20px 10px;
+}
+
+#nav-right-section li {
+    padding: 0px 10px 20px 10px;
+}
+
+#nav-left-section{
+    padding: 20px 10px;
+
+}
+
+#nav-left-section li{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+section{
+    display: flex;
+    padding: 4px 0px;
+    margin-top: 3vh;
+    align-items: center;
+}
+{}
+#botones{
+    padding: 0px 20px 10px 20px;
+    margin-top: 0px;
+}
+
+button{
+    padding: 10px 12px;
+    margin: 11px 4px;
+    background-color: #f8f9fa;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #3c4043;
+}
+
+button:hover{
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+footer{
+    padding: 0px 20px;
+    height: auto;
+    background-color: rgba(238, 238, 238, 0.61);
+    color: rgb(122, 122, 122);
+}
+
+#google{
+    justify-content: center;
+}
+
+
+.pais{
+    padding: 15px;
+    justify-content: flex-start;
+    margin-top: 0px;
+}
+
+#logo-google{
+    padding-top:10px;
+}
+
+#seccion-buscador{
+    display: flex;
+    padding: 5px;
+    min-height: 35px;
+    justify-content: space-between;
+    margin: 20px 0px;
+    border: 1px solid #dfe1e5;
+    border-radius: 50px;
+    width: 530px
+}
+
+#seccion-buscador:hover{
+    box-shadow: 0px 1px 6px rgba(32,33,36,.28);;
+}
+
+#seccion-buscador svg{
+    padding: 5px 8px;
+    width: 24px;
+}
+
+#buscador{
+    width: 85%;
+    border: none;
+    outline: none;
+}
+
+a:link{
+    text-decoration: none;
+    color:rgba(0,0,0,.87);
+}
+
+a:visited{
+    text-decoration: none;
+    color:rgba(0,0,0,.87);
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#Mexico-pais{
+    margin-top: 0px;
+    padding: 0px;
+    border-bottom: 1px solid #dadce0;
+}
+
+#lupaaa{
+    opacity: 35%;
+}
+
+#header-nav{
+    height: 86px;
+}
+
+#puntitos{
+    opacity: 60%;
+    width: 25px;
+}
+
+#footer-listas ul li:hover{
+    text-decoration: underline;
+}
