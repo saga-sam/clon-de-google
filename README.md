@@ -10,7 +10,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 * [2. Demo](https://github.com/sagsag8/clon-de-google#2-demo)
 * [3. ¿Qué construirás?](https://github.com/sagsag8/clon-de-google#3-qu%C3%A9-construir%C3%A1s)
 * [4. Objetivos de aprendizaje](https://github.com/sagsag8/clon-de-google#4-objetivos-de-aprendizaje)
-* [5. Requisitos](https://github.com/sagsag8/clon-de-google/blob/main/Im%C3%A1genes/preview.png)
+* [5. Requisitos](https://github.com/sagsag8/clon-de-google/blob/main/README.md#5-requisitos)
 
 ****
 
