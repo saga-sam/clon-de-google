@@ -6,11 +6,11 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-* [1. Intro](https://github.com/malibb/clon-de-google/tree/main#1intro)
-* [2. Demo](https://github.com/malibb/clon-de-google/tree/main#2-demo)
-* [3. ¿Qué construirás?](https://github.com/malibb/clon-de-google/tree/main#3-qu%C3%A9-construir%C3%A1s)
-* [4. Objetivos de aprendizaje](https://github.com/malibb/clon-de-google/tree/main#4-objetivos-de-aprendizaje)
-* [5. Requisitos](https://github.com/malibb/clon-de-google/tree/main#5-requisitos)
+* [1. Intro](https://github.com/sagsag8/clon-de-google#1intro)
+* [2. Demo](https://github.com/sagsag8/clon-de-google#2-demo)
+* [3. ¿Qué construirás?](https://github.com/sagsag8/clon-de-google#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/sagsag8/clon-de-google#4-objetivos-de-aprendizaje)
+* [5. General](https://github.com/malibb/clon-de-google/tree/main#5-requisitos)
 
 ****
 
@@ -25,7 +25,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("./../imágenes/clon-google.png")
+![imagen]("imágenes/preview.png")
 
 
 ## 3. ¿Qué construirás?
@@ -52,7 +52,7 @@ Aplicarás:
 - Estilos con CSS
 
 
-## 5. Requisitos
+## 5. General
 
 Usa esta lista para saber los requisitos mínimos del proyecto:
 
